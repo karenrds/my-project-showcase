@@ -24,7 +24,7 @@ Topics covered and technologies used -
 * Spring Web
 
 
-### <a href="https://github.com/karenrds/book-manager-api" target="_blank">Minimalist Book Manager API</a>
+### <a href="https://github.com/karenrds/book-manager-api" target="_blank">Minimalist Book Manager API Add Delete feature</a>
 
 In this lab, I was tasked with using a
 test-first approach to work through a
