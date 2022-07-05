@@ -1,6 +1,47 @@
 # My Project Showcase
 
 
+### <a href="https://github.com/karenrds/test-driven-development-roman-numerals">Roman Numerals Kata</a>
+
+In this task, I had to develop a program to convert between normal numerals and
+Roman numerals. I conducted research about roman numerals and how they
+were calculated and how I could use this approach in my program.
+I developed my program using Test-Driven Development (TDD) by writing the test
+first and used the red, green, refactor approach. I used a parameterized test
+where I passed a stream of arguments to pass multiple parameters to my test
+cases
+Writing test cases to fail and modifying step-by-step helps me avoid duplication.
+Debugging helped me find errors in my code.
+TDD helped me focus on the requirements (Given, When, Then).
+
+Language - Java
+
+Code Editor - Intellij
+
+Testing Framework - JUnit
+
+
+### <a href="https://github.com/karenrds/mars-rover-kata1">Mars Rover Kata</a>
+
+I developed a program to move rovers on the mars surface.
+I made the assumption that the mars plateau is a rectangular grid.
+The grid has two lines, an x-axis and a y-axis. I set the dimensions for the
+surface of mars and then tried to move rovers by implementing methods to turn
+left, right and move ahead with a string of commands. The result was the rover's
+final position on the grid and the direction.
+I used Object-Oriented Programming Principles and the Test-Driven
+Development (TDD) approach for writing cleaner code without repetitions,
+descriptive naming (classes, methods, variables) and improving my code
+design. This task also helped me write test cases for different scenarios.
+
+Language - Java
+
+Code Editor - Intellij
+
+Testing Framework - JUnit
+
+
+
 ### <a href="https://github.com/karenrds/apilab1" target="_blank">API Interactive Lab 1 - Create a Web API to Serve back a JSON Response using a Test-Driven Approach</a>
 
 In this lab, I was tasked with creating a simple Drinks Web API against the business requirements using a TestDriven approach. I utilised Spring Boot from the Spring ecosystem to create a Web API to serve back a JSON Response based on a Request.
